@@ -1,12 +1,12 @@
 # IMPORTANT: Set this to false.
-demo: true
+demo: false
 
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
-copy: "I'm a UI designer/developer based in Vancouver, Canada, and specialize in writing scalable and modular architecture for CSS as well as rapid prototyping to make great UX for coworkers."
+photo: "https://avatars1.githubusercontent.com/u/97672?v=2&s=150"
+name: "Henrique Dias"
+copy: "I'm a Data Scientist based in Porto Alegre, Brazil, and specialize in natural language processing algorithms for portuguese, now working in electronic health records data mining."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
@@ -18,4 +18,4 @@ copy: "I'm a UI designer/developer based in Vancouver, Canada, and specialize in
 # - purple
 # - teal
 # - green
-color: default
+color: blue
