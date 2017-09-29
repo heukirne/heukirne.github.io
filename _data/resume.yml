@@ -4,7 +4,7 @@ demo: false
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars1.githubusercontent.com/u/97672?v=2&s=150"
+photo: "https://avatars1.githubusercontent.com/u/97672"
 name: "Henrique Dias"
 copy: "I'm a Data Scientist based in Porto Alegre, Brazil, and specialize in natural language processing algorithms for portuguese, now working in electronic health records data mining at PUCRS."
 
